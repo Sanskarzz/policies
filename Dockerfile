@@ -1,6 +1,6 @@
 #syntax=docker/dockerfile:1.9
 
-FROM ghcr.io/cloudnative-pg/postgresql:17rc1-4-bookworm@sha256:48529cd010eb9299994db7c3110b2ff8b872b519bafb5a705cba091f03c60129
+FROM ghcr.io/cloudnative-pg/postgresql:17rc1-4-bookworm
 
 USER root
 
